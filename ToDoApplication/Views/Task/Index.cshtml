@@ -1,0 +1,49 @@
+﻿@using ToDoApplication.Domain.Enum
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h4 class="mb-3 text-muted">Creating Tasks</h4>
+<form id="createTaskForm">
+    <div class="mb-3">
+        <label for="name" class="form-label"></label>
+        <input type="text" class="form-control" name="name" id="name">
+    </div>
+    <select name="priority" id="priority" class="form-select mb-3" asp-items="Html.GetEnumSelectList<Priority>()"></select>
+    <div class="mb-3">
+        <label for="description" class="form-label"></label>
+        <textarea type="text" class="form-control" name="description" id="description" rows="3"></textarea>
+    </div>
+    <button id="createTask" class="btn btn-primary">Create</button>
+</form>
+
+@section Scripts
+{
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script>
+        $('#createTask').on('click', (e) => {
+            e.preventDefault();
+            $.ajax({
+                type: 'POST',
+                url: '@Url.Action("Create", "Task")',
+                data: $('#createTaskForm').serialize(),
+                success: () => {
+                    Swal.fire({
+                        title: 'Information',
+                        text: response.description,
+                        icon: 'success',
+                        confirmButtonText: 'Okay'
+                    })
+                },
+                error: () => {
+                    Swal.fire({
+                        title: 'Information',
+                        text: response.responseJson.description,
+                        icon: 'error',
+                        confirmButtonText: 'Okay'
+                    })
+                }
+            })
+        })
+    </script>
+}

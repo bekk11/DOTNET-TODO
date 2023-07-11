@@ -1,0 +1,17 @@
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Service\bin\Debug\net7.0\ToDoApplication.Service.deps.json
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Service\bin\Debug\net7.0\ToDoApplication.Service.dll
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Service\bin\Debug\net7.0\ToDoApplication.Service.pdb
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Service\bin\Debug\net7.0\ToDoApplication.DAL.dll
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Service\bin\Debug\net7.0\ToDoApplication.Domain.dll
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Service\bin\Debug\net7.0\ToDoApplication.DAL.pdb
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Service\bin\Debug\net7.0\ToDoApplication.Domain.pdb
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Service\obj\Debug\net7.0\ToDoApplication.Service.csproj.AssemblyReference.cache
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Service\obj\Debug\net7.0\ToDoApplication.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Service\obj\Debug\net7.0\ToDoApplication.Service.AssemblyInfoInputs.cache
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Service\obj\Debug\net7.0\ToDoApplication.Service.AssemblyInfo.cs
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Service\obj\Debug\net7.0\ToDoApplication.Service.csproj.CoreCompileInputs.cache
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Service\obj\Debug\net7.0\ToDoApplication.Service.csproj.CopyComplete
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Service\obj\Debug\net7.0\ToDoApplication.Service.dll
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Service\obj\Debug\net7.0\refint\ToDoApplication.Service.dll
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Service\obj\Debug\net7.0\ToDoApplication.Service.pdb
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Service\obj\Debug\net7.0\ref\ToDoApplication.Service.dll

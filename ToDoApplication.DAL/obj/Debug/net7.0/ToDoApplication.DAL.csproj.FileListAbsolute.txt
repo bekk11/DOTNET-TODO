@@ -1,0 +1,15 @@
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.DAL\bin\Debug\net7.0\ToDoApplication.DAL.deps.json
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.DAL\bin\Debug\net7.0\ToDoApplication.DAL.dll
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.DAL\bin\Debug\net7.0\ToDoApplication.DAL.pdb
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.DAL\bin\Debug\net7.0\ToDoApplication.Domain.dll
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.DAL\bin\Debug\net7.0\ToDoApplication.Domain.pdb
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.DAL\obj\Debug\net7.0\ToDoApplication.DAL.csproj.AssemblyReference.cache
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.DAL\obj\Debug\net7.0\ToDoApplication.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.DAL\obj\Debug\net7.0\ToDoApplication.DAL.AssemblyInfoInputs.cache
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.DAL\obj\Debug\net7.0\ToDoApplication.DAL.AssemblyInfo.cs
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.DAL\obj\Debug\net7.0\ToDoApplication.DAL.csproj.CoreCompileInputs.cache
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.DAL\obj\Debug\net7.0\ToDoApplication.DAL.csproj.CopyComplete
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.DAL\obj\Debug\net7.0\ToDoApplication.DAL.dll
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.DAL\obj\Debug\net7.0\refint\ToDoApplication.DAL.dll
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.DAL\obj\Debug\net7.0\ToDoApplication.DAL.pdb
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.DAL\obj\Debug\net7.0\ref\ToDoApplication.DAL.dll

@@ -1,0 +1,12 @@
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Domain\bin\Debug\net7.0\ToDoApplication.Domain.deps.json
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Domain\bin\Debug\net7.0\ToDoApplication.Domain.dll
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Domain\bin\Debug\net7.0\ToDoApplication.Domain.pdb
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Domain\obj\Debug\net7.0\ToDoApplication.Domain.csproj.AssemblyReference.cache
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Domain\obj\Debug\net7.0\ToDoApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Domain\obj\Debug\net7.0\ToDoApplication.Domain.AssemblyInfoInputs.cache
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Domain\obj\Debug\net7.0\ToDoApplication.Domain.AssemblyInfo.cs
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Domain\obj\Debug\net7.0\ToDoApplication.Domain.csproj.CoreCompileInputs.cache
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Domain\obj\Debug\net7.0\ToDoApplication.Domain.dll
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Domain\obj\Debug\net7.0\refint\ToDoApplication.Domain.dll
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Domain\obj\Debug\net7.0\ToDoApplication.Domain.pdb
+D:\uzcard\dotnet\NewGenerationOfMVC\ToDoApplication\ToDoApplication.Domain\obj\Debug\net7.0\ref\ToDoApplication.Domain.dll

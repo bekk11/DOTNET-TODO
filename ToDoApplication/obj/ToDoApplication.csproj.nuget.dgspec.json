@@ -1,0 +1,270 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication\\ToDoApplication.csproj": {}
+  },
+  "projects": {
+    "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication.DAL\\ToDoApplication.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication.DAL\\ToDoApplication.DAL.csproj",
+        "projectName": "ToDoApplication.DAL",
+        "projectPath": "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication.DAL\\ToDoApplication.DAL.csproj",
+        "packagesPath": "C:\\Users\\IT_Student\\.nuget\\packages\\",
+        "outputPath": "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IT_Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication.Domain\\ToDoApplication.Domain.csproj": {
+                "projectPath": "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication.Domain\\ToDoApplication.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication.Domain\\ToDoApplication.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication.Domain\\ToDoApplication.Domain.csproj",
+        "projectName": "ToDoApplication.Domain",
+        "projectPath": "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication.Domain\\ToDoApplication.Domain.csproj",
+        "packagesPath": "C:\\Users\\IT_Student\\.nuget\\packages\\",
+        "outputPath": "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IT_Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication.Service\\ToDoApplication.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication.Service\\ToDoApplication.Service.csproj",
+        "projectName": "ToDoApplication.Service",
+        "projectPath": "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication.Service\\ToDoApplication.Service.csproj",
+        "packagesPath": "C:\\Users\\IT_Student\\.nuget\\packages\\",
+        "outputPath": "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IT_Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication.DAL\\ToDoApplication.DAL.csproj": {
+                "projectPath": "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication.DAL\\ToDoApplication.DAL.csproj"
+              },
+              "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication.Domain\\ToDoApplication.Domain.csproj": {
+                "projectPath": "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication.Domain\\ToDoApplication.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication\\ToDoApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication\\ToDoApplication.csproj",
+        "projectName": "ToDoApplication",
+        "projectPath": "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication\\ToDoApplication.csproj",
+        "packagesPath": "C:\\Users\\IT_Student\\.nuget\\packages\\",
+        "outputPath": "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IT_Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.305\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication.DAL\\ToDoApplication.DAL.csproj": {
+                "projectPath": "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication.DAL\\ToDoApplication.DAL.csproj"
+              },
+              "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication.Service\\ToDoApplication.Service.csproj": {
+                "projectPath": "D:\\uzcard\\dotnet\\NewGenerationOfMVC\\ToDoApplication\\ToDoApplication.Service\\ToDoApplication.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
